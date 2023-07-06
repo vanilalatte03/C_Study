@@ -137,6 +137,17 @@
     <ClCompile Include="exam_02_06.c" />
     <ClCompile Include="exam_02_07.c" />
     <ClCompile Include="exam_02_08.c" />
+    <ClCompile Include="exam_03_01.c" />
+    <ClCompile Include="exam_04_01.c" />
+    <ClCompile Include="exam_04_02.c" />
+    <ClCompile Include="exam_04_03.c" />
+    <ClCompile Include="exam_04_04.c" />
+    <ClCompile Include="exam_04_05.c" />
+    <ClCompile Include="exam_04_06.c" />
+    <ClCompile Include="exam_04_07.c" />
+    <ClCompile Include="exam_04_08.c" />
+    <ClCompile Include="prac_04_02.c" />
+    <ClCompile Include="prac_04_03.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

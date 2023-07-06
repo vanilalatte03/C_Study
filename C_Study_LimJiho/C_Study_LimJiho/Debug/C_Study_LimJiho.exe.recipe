@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\GitHub\C_Study\C_Study_LimJiho\x64\Debug\C_Study_LimJiho.exe</FullPath>
+      <FullPath>C:\GitHub\C_Study\C_Study_LimJiho\Debug\C_Study_LimJiho.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
