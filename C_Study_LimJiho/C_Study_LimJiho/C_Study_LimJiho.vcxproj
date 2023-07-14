@@ -171,6 +171,8 @@
     <ClCompile Include="exam_09_01.c" />
     <ClCompile Include="exam_09_02.c" />
     <ClCompile Include="exam_09_03.c" />
+    <ClCompile Include="exam_09_04.c" />
+    <ClCompile Include="exam_09_05.c" />
     <ClCompile Include="prac_04_03.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
