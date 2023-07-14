@@ -40,6 +40,12 @@
     <Filter Include="소스 파일\Section09">
       <UniqueIdentifier>{d17867dc-1cdf-49a9-9431-b6b8b873a009}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Section10">
+      <UniqueIdentifier>{e35bf2d4-62bc-4cd2-941a-172ddc29e8c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section11">
+      <UniqueIdentifier>{78dc659d-51c3-40df-a0d0-b23e8b279e34}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exam_01_01.c">
@@ -182,6 +188,18 @@
     </ClCompile>
     <ClCompile Include="exam_09_05.c">
       <Filter>소스 파일\Section09</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_10_01.c">
+      <Filter>소스 파일\Section10</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_10_02.c">
+      <Filter>소스 파일\Section10</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_11_01.c">
+      <Filter>소스 파일\Section11</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_11_02.c">
+      <Filter>소스 파일\Section11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
