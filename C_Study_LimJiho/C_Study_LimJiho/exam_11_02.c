@@ -1,5 +1,5 @@
 //예제 11-2_포인터를 이용한 배열의 연산
-
+/*
 #include <stdio.h>
 
 int main(void) {
@@ -14,5 +14,9 @@ int main(void) {
 	printf("%d %d %d\n", *sarr, *(sarr+1), *(sarr+2));
 	printf("%d %d %d\n", *iarr, *(sarr + 1), *(sarr + 2));
 
+	//주소 확인
+	printf("%p %p %p\n", &sarr[0], &sarr[1], &sarr[2]);
+	printf("%p %p %p\n", &iarr[0], &iarr[1], &iarr[2]);
+
 	return 0;
-}
+}*/

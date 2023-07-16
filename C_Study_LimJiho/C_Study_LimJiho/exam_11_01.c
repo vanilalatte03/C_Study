@@ -1,5 +1,5 @@
 //예제 11-1_포인터와 배열의 관계
-
+/*
 #include <stdio.h>
 
 int main(void) {
@@ -11,4 +11,4 @@ int main(void) {
 	printf("세번째 요소: %p\n", &myArr[2]);
 
 	return 0;
-}
+}*/
