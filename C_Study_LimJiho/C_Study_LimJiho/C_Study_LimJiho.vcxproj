@@ -183,6 +183,16 @@
     <ClCompile Include="exam_12_03.c" />
     <ClCompile Include="exam_12_04.c" />
     <ClCompile Include="prac_04_03.c" />
+    <ClCompile Include="total_01_01.c" />
+    <ClCompile Include="total_01_02.c" />
+    <ClCompile Include="total_01_03.c" />
+    <ClCompile Include="total_01_04.c" />
+    <ClCompile Include="total_01_05.c" />
+    <ClCompile Include="total_02_01.c" />
+    <ClCompile Include="total_02_02.c" />
+    <ClCompile Include="total_02_03.c" />
+    <ClCompile Include="total_02_04.c" />
+    <ClCompile Include="total_02_05.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
