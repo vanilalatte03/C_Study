@@ -52,6 +52,9 @@
     <Filter Include="소스 파일\Question">
       <UniqueIdentifier>{f415212e-5a24-40e9-8246-c615d0a248b4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Section13">
+      <UniqueIdentifier>{85841b66-cce9-486b-a8ec-bc5f473ff58e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exam_01_01.c">
@@ -252,5 +255,28 @@
     <ClCompile Include="total_02_05.c">
       <Filter>소스 파일\Question</Filter>
     </ClCompile>
+    <ClCompile Include="exam_13_01.c">
+      <Filter>소스 파일\Section13</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_13_02.c">
+      <Filter>소스 파일\Section13</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_13_03.c">
+      <Filter>소스 파일\Section13</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_13_04.c">
+      <Filter>소스 파일\Section13</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_13_05.c">
+      <Filter>소스 파일\Section13</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_13_06.c">
+      <Filter>소스 파일\Section13</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
