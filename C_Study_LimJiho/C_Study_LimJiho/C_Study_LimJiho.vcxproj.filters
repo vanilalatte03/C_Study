@@ -55,6 +55,12 @@
     <Filter Include="소스 파일\Section13">
       <UniqueIdentifier>{85841b66-cce9-486b-a8ec-bc5f473ff58e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Section14">
+      <UniqueIdentifier>{2ad91b60-5cd1-42e5-9a2d-3dbd26cb3454}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section15">
+      <UniqueIdentifier>{d617e72c-f473-4b2a-b94d-af92a397f4e9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exam_01_01.c">
@@ -272,6 +278,30 @@
     </ClCompile>
     <ClCompile Include="exam_13_06.c">
       <Filter>소스 파일\Section13</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_14_01.c">
+      <Filter>소스 파일\Section14</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_15_01.c">
+      <Filter>소스 파일\Section15</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_15_02.c">
+      <Filter>소스 파일\Section15</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_15_03.c">
+      <Filter>소스 파일\Section15</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_15_04.c">
+      <Filter>소스 파일\Section15</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_15_05.c">
+      <Filter>소스 파일\Section15</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_15_06.c">
+      <Filter>소스 파일\Section15</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_15_07.c">
+      <Filter>소스 파일\Section15</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

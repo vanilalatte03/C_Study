@@ -188,6 +188,14 @@
     <ClCompile Include="exam_13_04.c" />
     <ClCompile Include="exam_13_05.c" />
     <ClCompile Include="exam_13_06.c" />
+    <ClCompile Include="exam_14_01.c" />
+    <ClCompile Include="exam_15_01.c" />
+    <ClCompile Include="exam_15_02.c" />
+    <ClCompile Include="exam_15_03.c" />
+    <ClCompile Include="exam_15_04.c" />
+    <ClCompile Include="exam_15_05.c" />
+    <ClCompile Include="exam_15_06.c" />
+    <ClCompile Include="exam_15_07.c" />
     <ClCompile Include="prac_04_03.c" />
     <ClCompile Include="total_01_01.c" />
     <ClCompile Include="total_01_02.c" />
