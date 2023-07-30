@@ -61,6 +61,15 @@
     <Filter Include="소스 파일\Section15">
       <UniqueIdentifier>{d617e72c-f473-4b2a-b94d-af92a397f4e9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Section16">
+      <UniqueIdentifier>{f59fd31c-4476-4001-abec-f4c30090a048}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section17">
+      <UniqueIdentifier>{a194f6cb-642d-4a3f-8405-b43a58378503}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section18">
+      <UniqueIdentifier>{4ae289c6-5827-4451-8440-c4cd16dd66bc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exam_01_01.c">
@@ -302,6 +311,48 @@
     </ClCompile>
     <ClCompile Include="exam_15_07.c">
       <Filter>소스 파일\Section15</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_16_01.c">
+      <Filter>소스 파일\Section16</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_16_02.c">
+      <Filter>소스 파일\Section16</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_16_03.c">
+      <Filter>소스 파일\Section16</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_16_04.c">
+      <Filter>소스 파일\Section16</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_16_05.c">
+      <Filter>소스 파일\Section16</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_16_06.c">
+      <Filter>소스 파일\Section16</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_17_01.c">
+      <Filter>소스 파일\Section17</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_17_02.c">
+      <Filter>소스 파일\Section17</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_17_03.c">
+      <Filter>소스 파일\Section17</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_17_04.c">
+      <Filter>소스 파일\Section17</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_18_01.c">
+      <Filter>소스 파일\Section18</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_18_02.c">
+      <Filter>소스 파일\Section18</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_18_03.c">
+      <Filter>소스 파일\Section18</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_18_04.c">
+      <Filter>소스 파일\Section18</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

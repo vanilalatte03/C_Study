@@ -1,5 +1,5 @@
 //예제 15-7_static 변수
-
+/*
 #include <stdio.h>
 
 void increaseNumber() {
@@ -16,4 +16,4 @@ int main(void) {
 	increaseNumber();
 
 	return 0;
-}
+}*/
