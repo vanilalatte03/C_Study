@@ -210,6 +210,17 @@
     <ClCompile Include="exam_18_02.c" />
     <ClCompile Include="exam_18_03.c" />
     <ClCompile Include="exam_18_04.c" />
+    <ClCompile Include="exam_19_01.c" />
+    <ClCompile Include="exam_19_02.c" />
+    <ClCompile Include="exam_19_03.c" />
+    <ClCompile Include="exam_19_04.c" />
+    <ClCompile Include="exam_19_05.c" />
+    <ClCompile Include="exam_20_01.c" />
+    <ClCompile Include="exam_20_02.c" />
+    <ClCompile Include="exam_20_03.c" />
+    <ClCompile Include="exam_20_04.c" />
+    <ClCompile Include="exam_20_05.c" />
+    <ClCompile Include="exam_20_06.c" />
     <ClCompile Include="prac_04_03.c" />
     <ClCompile Include="total_01_01.c" />
     <ClCompile Include="total_01_02.c" />

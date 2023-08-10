@@ -70,6 +70,12 @@
     <Filter Include="소스 파일\Section18">
       <UniqueIdentifier>{4ae289c6-5827-4451-8440-c4cd16dd66bc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Section19">
+      <UniqueIdentifier>{3350d302-a639-4f04-b358-445a88647949}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Section20">
+      <UniqueIdentifier>{af65a1fe-3e33-45bf-9848-c249ae23574c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="exam_01_01.c">
@@ -353,6 +359,39 @@
     </ClCompile>
     <ClCompile Include="exam_18_04.c">
       <Filter>소스 파일\Section18</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_19_01.c">
+      <Filter>소스 파일\Section19</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_19_02.c">
+      <Filter>소스 파일\Section19</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_19_03.c">
+      <Filter>소스 파일\Section19</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_19_04.c">
+      <Filter>소스 파일\Section19</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_19_05.c">
+      <Filter>소스 파일\Section19</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_20_01.c">
+      <Filter>소스 파일\Section20</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_20_02.c">
+      <Filter>소스 파일\Section20</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_20_03.c">
+      <Filter>소스 파일\Section20</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_20_04.c">
+      <Filter>소스 파일\Section20</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_20_05.c">
+      <Filter>소스 파일\Section20</Filter>
+    </ClCompile>
+    <ClCompile Include="exam_20_06.c">
+      <Filter>소스 파일\Section20</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
